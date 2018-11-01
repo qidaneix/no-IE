@@ -1,11 +1,11 @@
 {
   "name": "no-ie",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "no Internet Explorer",
   "keywords": [
-    "Internet Explorer",
+    "NO",
     "IE",
-    "no"
+    "Internet Explorer"
   ],
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
